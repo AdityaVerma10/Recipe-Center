@@ -170,6 +170,12 @@ h2{
         flex-direction: column;
     }
 }
+@media (max-width:1150px){
+    .item3{
+        display: flex;
+        justify-content: column;
+    }
+}
 @media (max-width:900px){
     #navlist{
         flex-direction: column;
